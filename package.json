@@ -1,0 +1,19 @@
+{
+  "name": "smart-platform-care-frontend",
+  "version": "1.0.0",
+  "description": "Smart Platform Care — Merchant SaaS Frontend",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.4",
+    "autoprefixer": "^10",
+    "next": "14",
+    "postcss": "^8",
+    "react": "^18",
+    "react-dom": "^18",
+    "tailwindcss": "^4"
+  }
+}
